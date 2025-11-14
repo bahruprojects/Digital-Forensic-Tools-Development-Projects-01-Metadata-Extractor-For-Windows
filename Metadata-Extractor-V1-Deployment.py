@@ -1,4 +1,4 @@
-# Metadata-Extractor Versi Deployement Ke Github
+# Metadata-Extractor Versi Deployement Ke Github Version 1
 
 import os
 import csv
@@ -116,3 +116,4 @@ if __name__ == "__main__":
     root = TkinterDnD.Tk()
     app = MetadataExtractorApp(root)
     root.mainloop()
+
