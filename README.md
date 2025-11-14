@@ -363,7 +363,7 @@ Jika Anda menemukan bug atau memiliki saran:
 1. **Bug Reports**: Buat issue di GitHub dengan label "bug"
 2. **Feature Requests**: Buat issue dengan label "enhancement"
 3. **Questions**: Buka discussion di GitHub Discussions
-4. **Security Issues**: Email langsung ke security@yourmail.com
+4. **Security Issues**: Email langsung ke Rahmikalfin@gmail.com
 
 ## 🌟 Star History
 
