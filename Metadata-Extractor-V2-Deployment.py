@@ -1,4 +1,4 @@
-# Metadata-Extractor Versi Deployement Ke Github
+# Metadata-Extractor Versi Deployement Ke Github Version 2
 
 import os
 import csv
@@ -517,4 +517,5 @@ def main():
     root.mainloop()
 
 if __name__ == "__main__":
+
     main()
